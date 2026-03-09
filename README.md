@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Armaan Palan! 👋
 
-<!--
-**Aru1910/Aru1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 IT Engineering Student @ TCET (First Year)
+I'm diving deep into the world of programming and AI to build the future.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my project for **Multicon-W 2026** on **Linear and Boolean Algebra**.
+- 🌱 I’m currently learning: **GitHub, Python, and AI-driven development**.
+- 🎸 Fun Fact: When I'm not coding, I'm probably playing Games or listening to music.
+- 🐉 Interests: Ancient Roman history, Greek Mythology (Percy Jackson fan!), and post-WWII history.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, C (currently mastering)
+- **Tools:** Git, GitHub, VS Code, GitHub Desktop
+- **AI Tools:** GitHub Copilot, Gemini
+
+### 📊 GitHub Stats
+![Armaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aru1910&show_icons=true&theme=radical)## Hi there 👋
+
