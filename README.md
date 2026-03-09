@@ -19,3 +19,7 @@ I'm diving deep into the world of programming and AI to build the future.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aru1910&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aru1910&layout=compact&theme=vision-forgotten)
