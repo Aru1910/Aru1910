@@ -14,7 +14,9 @@ I'm diving deep into the world of programming and AI to build the future.
 - **AI Tools:** GitHub Copilot, Gemini
 
 ### 📊 GitHub Stats
-![Armaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aru1910&show_icons=true&theme=radical)## Hi there 👋
+![Armaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aru1910&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aru1910&layout=compact&theme=vision-forgotten)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -24,4 +26,4 @@ I'm diving deep into the world of programming and AI to build the future.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aru1910&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aru1910&layout=compact&theme=vision-forgotten)](https://github.com/anuraghazra/github-readme-stats)
+
