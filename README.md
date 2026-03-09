@@ -22,4 +22,6 @@ I'm diving deep into the world of programming and AI to build the future.
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aru1910&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aru1910&layout=compact&theme=vision-forgotten)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aru1910&layout=compact&theme=vision-forgotten)](https://github.com/anuraghazra/github-readme-stats)
